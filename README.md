@@ -1,9 +1,7 @@
 # UbiDash — Consola Administrativa & Telemetría Móvil de UBICATEC
 
 <p align="center">
-  <img src="assets/ubidash-logo.png" alt="UbiDash Logo" height="65">
-  <br><br>
-  <img src="assets/leoncio-mascot.png" alt="Leoncio Mascota ITP" width="130">
+  <img src="assets/ubidash-badge.png" alt="UbiDash Logo Oficial" width="280">
 </p>
 
 <p align="center">
